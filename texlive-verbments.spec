@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-verbments
 Version:	1.2
-Release:	1
+Release:	2
 Summary:	Syntax highlighting of source code in LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verbments
