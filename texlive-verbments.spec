@@ -48,3 +48,16 @@ language.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.2-2
++ Revision: 757417
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.2-1
++ Revision: 719884
+- texlive-verbments
+- texlive-verbments
+- texlive-verbments
+
