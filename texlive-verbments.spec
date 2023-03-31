@@ -1,6 +1,6 @@
 Name:		texlive-verbments
 Version:	23670
-Release:	1
+Release:	2
 Summary:	Syntax highlighting of source code in LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verbments
