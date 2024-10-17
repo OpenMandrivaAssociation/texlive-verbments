@@ -3,7 +3,7 @@ Version:	23670
 Release:	2
 Summary:	Syntax highlighting of source code in LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verbments
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/verbments
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verbments.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verbments.doc.r%{version}.tar.xz
